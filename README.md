@@ -1,2 +1,6 @@
-# Horiseon-Remastered
-Cleaner code and more accessible Horiseon
+# <Horiseon-Remastered>
+
+## Description
+Refactoring the code so it meets HTML and CSS semantic standards.
+
+---
